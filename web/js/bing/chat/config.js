@@ -1,5 +1,5 @@
 /* eslint-disable */
-_w['_sydPayWallConfig'] = { loadSydneyConvResWithPayWall: false, useSydneyPayWall: false };
+_w['_sydPayWallConfig'] = { loadSydneyConvResWithPayWall: false, useSydneyPayWall: false }
 _w['_sydConvConfig'] = {
   usePill: true,
   enableSydTigerAns: true,
@@ -294,9 +294,9 @@ _w['_sydConvConfig'] = {
   codexOptionsSetsList: [],
   enableSydSuperAppAnchoredScroll: false,
   enable2TQueryConfigsOnSerpLoad: false,
-  isMobileHost: false,
-};
-_w['_sydThreads'] = { threads: [] };
+  isMobileHost: false
+}
+_w['_sydThreads'] = { threads: [] }
 _w['_sydConvTranslation'] = {
   actionBarPlaceholder: '有问题尽管问我...（Shift + Enter = 换行，"/" 触发提示词）',
   actionBarAriaLabel: '询问必应',
@@ -334,7 +334,7 @@ _w['_sydConvTranslation'] = {
   welcomeMessageItemTitle2: '🙌获取更好的答案',
   welcomeMessageItemTitle3: '🎨 获得创意灵感',
   welcomeMessageItemLabel4: '更多创意中的新增功能：',
-  warmWelcomeTitle: '欢迎使用新必应',
+  warmWelcomeTitle: '欢迎使用希望AI1',
   welcomeSubtitleText: '由 AI 支持的网页版 Copilot',
   workToggleDescription: '以及你的结果包括哪些内容',
   feedbackFirstMessage: '非常抱歉没有帮助到你。是否可以详细说明你不喜欢的方面?',
@@ -344,13 +344,15 @@ _w['_sydConvTranslation'] = {
   feedbackPromptReportAConcern: '报告问题',
   feedbackPromptPositive: '很高兴你喜欢这个答案！',
   feedbackFormTitleText: '为什么这不起作用？',
-  feedbackFormInputDefaultText: '在此处添加更多详细信息。为了帮助保护你的隐私，请不要填入你的姓名或电子邮件地址等个人信息。',
+  feedbackFormInputDefaultText:
+    '在此处添加更多详细信息。为了帮助保护你的隐私，请不要填入你的姓名或电子邮件地址等个人信息。',
   feedbackFormLegalText: '是否有法律或政策问题？',
   feedbackFormReportAConcern: '报告问题',
   feedbackFormNotificationTitleText: '反馈已提交',
   feedbackFormNotificationBodyText: '感谢你帮助必应改进！',
   serpFeedbackFormTitleText: '请帮助我们改进体验',
-  serpFeedbackFormInputDefaultText: '在此处输入反馈。为了帮助保护你的隐私，请不要填入你的姓名或电子邮件地址等个人信息。',
+  serpFeedbackFormInputDefaultText:
+    '在此处输入反馈。为了帮助保护你的隐私，请不要填入你的姓名或电子邮件地址等个人信息。',
   serpFeedbackFormScreenshot: '包括此屏幕截图',
   submit: '提交',
   metaInternalSearchQuery: '正在搜索: `{0}`',
@@ -424,7 +426,8 @@ _w['_sydConvTranslation'] = {
   newTopicSugg23: '火烈鸟为何为粉色?',
   newTopicSugg24: '全息影像的工作原理是什么?',
   newTopicSugg25: '金字塔是如何建成的?',
-  newUserGreet: '嘿，你好！我是必应，除了简单搜索之外，我还可以帮助你完成各种操作。你可以询问我关于从家庭作业到历史记录到帽子的任何信息。你的想法是什么？',
+  newUserGreet:
+    '嘿，你好！我是必应，除了简单搜索之外，我还可以帮助你完成各种操作。你可以询问我关于从家庭作业到历史记录到帽子的任何信息。你的想法是什么？',
   newUserSugg1: '搜索运行状况',
   newUserSugg2: '搜索电影',
   newUserSugg3: '创作歌曲',
@@ -452,7 +455,8 @@ _w['_sydConvTranslation'] = {
   welcomeLearnSegment1: '让我们一起学习。必应由 AI 提供支持，因此可能出现意外和错误。请确保核对事实，并 ',
   welcomeLearnSegment2: '共享反馈 ',
   welcomeLearnSegment3: '以便我们可以学习和改进!',
-  welcomeLearnMessage: '让我们一起学习。必应由 AI 提供支持，因此可能出现意外和错误。请确保核对事实，并 {0} 以便我们可以学习和改进！',
+  welcomeLearnMessage:
+    '让我们一起学习。必应由 AI 提供支持，因此可能出现意外和错误。请确保核对事实，并 {0} 以便我们可以学习和改进！',
   welcomeLearnFeedbackSubstitute: '共享反馈',
   actionBarSuspendConvPlaceHolder: '已为挂起的帐户禁用消息传递',
   notiReConnect: '出错了。',
@@ -466,7 +470,8 @@ _w['_sydConvTranslation'] = {
   sydneySapphireUpsellContent: '现在就获取使用新 AI 驱动的必应应用程序吧!',
   sydneySapphireWelcomeText: '欢迎回来! 下面是此页面的一些内容。',
   sydneySapphireConsentTitleText: '使用新必应提升浏览',
-  sydneySapphireConsentMessageText: '允许 Microsoft 访问你的浏览器 Web 内容，以便使用 AI 生成的摘要和新必应的热点功能更好地个性化你的体验。了解更多信息',
+  sydneySapphireConsentMessageText:
+    '允许 Microsoft 访问你的浏览器 Web 内容，以便使用 AI 生成的摘要和新必应的热点功能更好地个性化你的体验。了解更多信息',
   sydneySapphireConsentConfirmText: '确认',
   sydneySapphireConsentDenyText: '拒绝',
   typingIndicatorStopStreamingAriaLabel: '停止流式传输',
@@ -503,7 +508,8 @@ _w['_sydConvTranslation'] = {
   speechAuthenticationError: '身份验证失败。请稍后重试。',
   speechUnknownError: '出错了。',
   refresh: '刷新',
-  feedbackShareContent: '下面是我使用新的必应（全球首个 AI支持的应答引擎）生成的答案。单击可查看完整答案，然后请你也来试一试。',
+  feedbackShareContent:
+    '下面是我使用新的必应（全球首个 AI支持的应答引擎）生成的答案。单击可查看完整答案，然后请你也来试一试。',
   preview: '预览',
   toneSelectorDescription: '选择对话样式',
   toneSelectorCreative: '有创造力',
@@ -563,14 +569,16 @@ _w['_sydConvTranslation'] = {
   threadsExportPanelTitle: '选择格式',
   threadsExportPanelAriaLabel: '选择',
   threadsAADMSARedirectConfirm: '切换用户配置',
-  threadsAADMSARedirectDescription: '正在使用 Microsoft 帐户保存你的对话历史记录。下次使用个人帐户登录时，它将在此处显示。',
+  threadsAADMSARedirectDescription:
+    '正在使用 Microsoft 帐户保存你的对话历史记录。下次使用个人帐户登录时，它将在此处显示。',
   threadsCancel: '取消',
   threadsChatHistory: '聊天记录',
   threadsConfirm: '确认',
   threadsDaysAgo: '{0} 天前',
   threadsDefaultChatName: '无标题的聊天',
   threadsDelete: '删除',
-  threadsDescription: '你的必应 AI 支持的 copilot 现可自动保存聊天功能。可以从任何设备、桌面或移动设备访问聊天，并无缝恢复。',
+  threadsDescription:
+    '你的必应 AI 支持的 copilot 现可自动保存聊天功能。可以从任何设备、桌面或移动设备访问聊天，并无缝恢复。',
   threadsDescriptionNote: '请注意，除非专门保存，否则所有聊天将在 90 天内自动删除。',
   threadsEdit: '重命名',
   threadsLoad: '加载聊天',
@@ -615,45 +623,54 @@ _w['_sydConvTranslation'] = {
   visualSearchFlyoutInputboxAriaLabel: '粘贴图像 URL',
   VisualSearchFlyoutTakePhotoButtonLabel: '拍照',
   visualSearchDragAndDropLabel: '“将图片拖至此处',
-  visualSearchFlyoutUploadButtonLabel: '从此设备上传',
-};
+  visualSearchFlyoutUploadButtonLabel: '从此设备上传'
+}
 function parseQueryParamsFromQuery(n, t) {
-  var u, f, e, o;
-  t === void 0 && (t = !0);
+  var u, f, e, o
+  t === void 0 && (t = !0)
   var r = [],
     s = n && n.length > 0 ? n.split('&') : [],
     h = s.length,
-    i = null;
+    i = null
   for (u = 0; u < h; u++)
-    (f = s[u]), (e = f.indexOf('=')), e > 0 && ((i = f.substr(0, e)), i.charAt(0) == '?' && (i = i.substr(1)), i && ((i = i.toLowerCase()), (r[i] = f.substr(e + 1))));
-  return t && ((o = r.first), (r.first = null == o || o == '0' ? 1 : parseInt(o))), r;
+    (f = s[u]),
+      (e = f.indexOf('=')),
+      e > 0 &&
+        ((i = f.substr(0, e)),
+        i.charAt(0) == '?' && (i = i.substr(1)),
+        i && ((i = i.toLowerCase()), (r[i] = f.substr(e + 1))))
+  return t && ((o = r.first), (r.first = null == o || o == '0' ? 1 : parseInt(o))), r
 }
 function parseQueryParams() {
-  var n = '';
+  var n = ''
   return (
-    (n = typeof Bing != 'undefined' && Bing.Url && Bing.Location ? Bing.Url.getQueryString(Bing.Location.get()) : _w.location.search.substring(1)), parseQueryParamsFromQuery(n)
-  );
+    (n =
+      typeof Bing != 'undefined' && Bing.Url && Bing.Location
+        ? Bing.Url.getQueryString(Bing.Location.get())
+        : _w.location.search.substring(1)),
+    parseQueryParamsFromQuery(n)
+  )
 }
 function convertQueryParamsToUrlStr(n, t) {
-  t === void 0 && (t = null);
-  var i = t ? t : _w.location.pathname.replace(/^\/+/, '/');
-  return i + '?' + queryParamsToString(n);
+  t === void 0 && (t = null)
+  var i = t ? t : _w.location.pathname.replace(/^\/+/, '/')
+  return i + '?' + queryParamsToString(n)
 }
 function queryParamsToString(n) {
-  for (var e, o, r, u, s, f, t = [], i = 1; i < arguments.length; i++) t[i - 1] = arguments[i];
-  if (((e = []), (u = t.length), u == 0)) for (s in n) n.hasOwnProperty(s) && (t.push(s), u++);
-  for (f = 0; f < u; f++) (o = t[f]), (r = n[o]), (r || r === 0) && e.push(o + '=' + r);
-  return e.join('&');
+  for (var e, o, r, u, s, f, t = [], i = 1; i < arguments.length; i++) t[i - 1] = arguments[i]
+  if (((e = []), (u = t.length), u == 0)) for (s in n) n.hasOwnProperty(s) && (t.push(s), u++)
+  for (f = 0; f < u; f++) (o = t[f]), (r = n[o]), (r || r === 0) && e.push(o + '=' + r)
+  return e.join('&')
 }
 function getCurrentQuery() {
   if (!currentQuery) {
-    var n = parseQueryParams();
-    currentQuery = n.q;
+    var n = parseQueryParams()
+    currentQuery = n.q
   }
-  return currentQuery;
+  return currentQuery
 }
 function extractDomainFromUrl(n, t, i) {
-  var r, u, f, e;
+  var r, u, f, e
   return typeof n != 'string'
     ? null
     : ((r = n),
@@ -666,7 +683,7 @@ function extractDomainFromUrl(n, t, i) {
       f >= 0 && (r = r.substr(0, f)),
       (e = i ? r.indexOf('www.') : -1),
       e >= 0 && (r = r.substr(u + 4)),
-      r);
+      r)
 }
 function addCommonPersistedParams(n) {
   var i = parseQueryParams(),
@@ -689,16 +706,24 @@ function addCommonPersistedParams(n) {
       'currentdate',
       'iss'
     ),
-    r = n.indexOf('?') === -1 ? '?' : '&';
-  return (t = t.length > 0 ? r + t : ''), n + t;
+    r = n.indexOf('?') === -1 ? '?' : '&'
+  return (t = t.length > 0 ? r + t : ''), n + t
 }
-var currentQuery = null;
-var fab_config = { fabStyle: 1, fabSbAction: 'FocusSearchBox', fabSbActionHover: 'None', fabSbActionData: 'None', fabTooltip: '', micFabAlwaysVisible: false, fabClickNoAS: false };
+var currentQuery = null
+var fab_config = {
+  fabStyle: 1,
+  fabSbAction: 'FocusSearchBox',
+  fabSbActionHover: 'None',
+  fabSbActionData: 'None',
+  fabTooltip: '',
+  micFabAlwaysVisible: false,
+  fabClickNoAS: false
+}
 sj_be(
   _w,
   'click',
   function () {
-    _G.UIWP = true;
+    _G.UIWP = true
   },
   1
-);
+)
